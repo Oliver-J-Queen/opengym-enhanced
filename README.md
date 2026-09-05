@@ -30,6 +30,16 @@ No account on someone else's server, no subscription, no ads. Just `docker compo
 
 </div>
 
+## Credits
+
+**openGym Enhanced** is a personalized fork of
+[openGym](https://gitlab.com/DuarteSantos8/opengym), created by
+[Duarte Santos](https://gitlab.com/DuarteSantos8). The original project and its
+contributors deserve the credit for the foundation of this application.
+
+This fork remains licensed under the [GNU AGPL v3.0](LICENSE). See
+[NOTICE.md](NOTICE.md) for the original project's third-party notices.
+
 <br>
 
 <div align="center">
